@@ -1,0 +1,10 @@
+SELECT TOP (1000) [MaNV]
+      ,[HoTen]
+      ,[GioiTinh]
+      ,[NgaySinh]
+      ,[QueQuan]
+      ,[SDT]
+      ,[Email]
+      ,[ChucVu]
+  FROM [OOP].[dbo].[NhanVien]
+  
